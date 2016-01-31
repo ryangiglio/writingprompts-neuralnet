@@ -14,8 +14,8 @@ require 'nngraph'
 require 'optim'
 require 'lfs'
 
-require 'util.OneHot'
-require 'util.misc'
+require './util/OneHot'
+require './util/misc'
 
 cmd = torch.CmdLine()
 cmd:text()
