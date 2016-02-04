@@ -4200,7 +4200,6 @@ It is discovered that every human being is in fact depressed, and everyone is in
 Someone who is in love with love.
 
 Since childhood you've looked for something magical to save you from your awful life. By accident, you find it in your 30's.
->>>>>>> b5940364afa30a26931cd8921fb8b5e7291761b4
 
 In a world of heroes, magic and happy endings, you are the villain just trying to get yours. Tell us your story.
 
@@ -4258,11 +4257,8 @@ The new class of paladins does not, in fact, contain a single paladin...just a l
 
 Steel armour never went out of use in Europe and in time it became a major part of men's fashion. These days full medieval-style plate armor is considered appropriate attire for a business meeting...
 
-<<<<<<< HEAD
 You are hired as a waitress at a high-scale restaurant. The owner runs a nightly competition for all the wait staff. It's different every night, but always feels strangely "occultish". Win on consecutive nights, and you can suspend any co-worker for a week. Win five in a row, you get $1 million
 
-=======
->>>>>>> b5940364afa30a26931cd8921fb8b5e7291761b4
 You share your body with a Lieutenant of Hell
 
 Watson is dead, Holmes is by his grave saying goodbye to his friend...
@@ -4415,11 +4411,8 @@ You work for Death as a reaper, and your assignment is Keith Richards. You haven
 
 In the late 21st century, religious wars waged in the name of God have only gotten more extreme as time goes on. Unbeknownst to the world, the US is undertaking a black project to create a faux god that'll deradicalize militants.
 
-<<<<<<< HEAD
 Scientists finally found the reasoning behind why everyone is making prompts about the earth being flat for some specific reason
 
-=======
->>>>>>> b5940364afa30a26931cd8921fb8b5e7291761b4
 A new bible passage has been found " "If you murder someone you go to hell. Unless you murder them in a super dope way, like, the scene from Achilles where he jumps up and fucking stabs him in the shoulder. That kind of shit." - Paulus, 2;13 " How do you live (die) up to it?
 
 The shocking discovery is made that every world EXCEPT the Earth is flat.
@@ -4446,11 +4439,8 @@ Time travel is discovered, but can only go forwards and back again. An undergrou
 
 You are elected as President of the United States. As you begin your term in office, you are suddenly briefed on the ongoing war against aliens.
 
-<<<<<<< HEAD
 Rapper B.O.B goes on a self-funded space mission to prove us all wrong, and discovers that the earth actually is flat. When he reports his findings, nobody believes him.
 
-=======
->>>>>>> b5940364afa30a26931cd8921fb8b5e7291761b4
 You have a gift known only to you: The ability to see the future, but only while you slumber. Your warnings of a great catastrophe go unheeded, as people think you're just having a bad dream.
 
 A group of kids go on a Goonies-like adventure, but they actually somehow got into East Germany and need to escape
@@ -4487,8 +4477,6 @@ Someone lead a relatively normal life, except they always hear a voice narrating
 
 A galaxy over the council looks down on the Milky way. When 2020 passes, their protection ceases and Earth must fend for itself among the rest of the universe. The council sends an envoy to give Earth, the most promising milky way civilization, a warning of what is to come.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Humour on first date [wp]
 
 Obsessed with your favourite /r/writingprompts writer you plan the perfect date [OR] murder using characters/plots associated with them.
@@ -4661,9 +4649,6 @@ Highly classified information has recently been leaked, leading to the revelatio
 
 in the year 2050 nearly everyone listens to music via a neural implant. You are one of three shops in the world selling vintage audio gear. Today someone came in with a particularly odd request.
 
-=======
->>>>>>> b5940364afa30a26931cd8921fb8b5e7291761b4
-=======
 A man makes a deal to obtain an extremely high I.Q at the cost of making his future generations progressively dumber. Distant relative just about manages to breaks the pattern and reverses the effect.
 
 The local Mafia declares war on an Assassin group.
@@ -5200,7 +5185,6 @@ Pres Trump squanders his fortune trying to secretly fund government projects, *p
 
 In a world filled with seers, you're the only one without the gift.
 
-<<<<<<< HEAD
 It was the last thing you would have expected out of a Tinder date.
 
 An ant colony is facing the apocalypse.....a rat. [wp]
